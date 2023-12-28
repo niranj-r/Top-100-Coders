@@ -28,7 +28,8 @@ Highly Used Software Tools:
 Competitive Website Profiles:
 In your portfolio, include the following details:
 
-check out vishakhabhayan@mulearn.md for an exmaple
+check out niranjr@mulearn
+
 
 Top 100 Finalist - Proof of Work
 About Me
