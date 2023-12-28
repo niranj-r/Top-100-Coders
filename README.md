@@ -2,8 +2,8 @@
 
 ### About Me
 
-> Hi myself Niranj R from Pathanamthitta Studying at St Joseph's College of Engineering and Technology Palai   as 1st Year Cyber Security Student
-> Age 18 Love to explore the depth of Tech knowledge , programming etc etc..
+> Hi myself Niranj R from Thiruvananthapuram studying at Mar Baselios College of Engineering and Technology, Nalanchira, Trivandrum. A 1st Year Computer Science and Engineering Student
+> Age 17 Love to explore the depth of Technology, programming, photography, editing etc..
 
 
 ### Portfolio Highlights
@@ -13,7 +13,9 @@
 
 #### Leadership and Influence: 
 
-havent Lead anything (team etc yet..)
+Lead Tech Expo at INVENTIA 2022.
+Financial lead at Tech Expo.
+One of the Event Coordinator at ATHLETA 22/
 
 #### Networking: 
 
@@ -56,8 +58,7 @@ Better than what i have expected  Motivates  students to compe up with more tech
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
+>> check out niranjr@mulearn
 ---
 
 
