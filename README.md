@@ -65,8 +65,8 @@ Better than what i have expected  Motivates  students to compe up with more tech
 # Top 100 Finalist -  Proof of Work
 
 ### About Me 
-> Hi myself Abin Raju Daniel from Pathanamthitta Studying at St Joseph's College of Engineering and Technology Palai   as 1st Year Cyber Security Student
-> Age 18 Love to explore the depth of Tech knowledge , programming etc etc..  I am new to web development and workedin a team IQA on the 3 day Hackathon program Conducted by mulearn
+> Hi myself Niranj R from Thiruvananthapuram studying at Mar Baselios College of Engineering and Technology, Nalanchira, Trivandrum. A 1st Year Computer Science and Engineering Student
+> Age 17 Love to explore the depth of Technology, programming, photography, editing etc..
 
 #### My Contribution:
 Help developed the idea.  Worked on some of the basics Structuring.
